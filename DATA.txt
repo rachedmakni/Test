@@ -1,0 +1,15 @@
+ Le volume dans le lecteur D n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 863A-FA26
+
+ R‚pertoire de D:\Rached\prog\git\Test
+
+07/14/2019  02:40 PM    <DIR>          .
+07/14/2019  02:40 PM    <DIR>          ..
+06/23/2019  03:59 AM                19 .gitignore
+07/14/2019  02:40 PM                 0 DATA.txt
+06/23/2019  03:53 AM                20 file to ignore.txt
+07/14/2019  02:37 PM                17 file.txt
+06/17/2019  04:26 AM                10 file1.txt
+06/17/2019  03:36 AM                24 README.md
+               6 fichier(s)               90 octets
+               2 R‚p(s)  98,577,702,912 octets libres
